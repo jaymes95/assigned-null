@@ -1,24 +1,21 @@
 # Study Mates
 **DECO3500 Project Proposal**
 
-**Team Name** : Equals-Null
+**Team Name** : Equals-Null  
 **Note:** assigned-null for github
+
 
 **Study mates** is a simple solution to find other people to meet and study with, whether it be another individual or a group.
 
 **Contributors** <br />
 
-Name | Student Number | Github Username  
--------------- | ---------- | -----------------  
-Jaymes Branch | 43221325 | jaymes95  
-Shashank Gururaj | 44888163 | shashankgururaj  
-Wes Clarke | 4358277 | wclar6  
-Daniel Burke | 44012043 | burkdani  
+Name | Student Number | Github Username | Course   
+-------------- | ---------- | ----------------- | -----------    
+Jaymes Branch | 43221325 | jaymes95 | DECO3500  
+Shashank Gururaj | 44888163 | shashankgururaj | DECO7350   
+Wes Clarke | 4358277 | wclar6 | DECO3500  
+Daniel Burke | 44012043 | burkdani | DECO7350  
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 **Features**
 
@@ -32,7 +29,6 @@ Content in the first column | Content in the second column
 
 
 ## Introduction 	
-
 
 
 ## Concept
@@ -82,10 +78,10 @@ The target audience for study mates is for tertiary level students.This is becau
 
 ### Prior Art
 
-**GroupME - ** https://play.google.com/store/apps/details?id=com.groupme.android&hl=en 
+**GroupME -** https://play.google.com/store/apps/details?id=com.groupme.android&hl=en 
 GroupME is probably the biggest application now that is focused on forming groups with people with a total number of instances ranging from 10,000,000 - 50,000,000. It is a mobile application that is solely concerned with forming groups with your Family, Roommates, Friends, Coworkers, Teams, Bands or Faith Groups. Users are able to communicate to a group through a chat system that also enables sending images and videos. It seems that this app is more focused with forming groups with people the user already knows and doesn’t facilitate meeting up face to face. This is where it differs from study mates as our focus is targeted towards tertiary students and aims to bring people together who may not already know each other, face to face.
 
-** Study Mate-timer, group study - ** https://play.google.com/store/apps/details?id=vh.frl.stopwatch&hl=en 
+** Study Mate-timer, group study -** https://play.google.com/store/apps/details?id=vh.frl.stopwatch&hl=en 
 This application has a much smaller install base at 10,000 - 50 000 installs but focuses more on studying in an almost gamified manner. The app centred is around the idea of trying to do more study than others in your group. You can time the amount of study you do and by forming a group you can see the study statistics of everyone else in the group with the idea seeing how much study everyone else is doing will motivate you to study more.This idea is a different take on how to engage people with study in a collaborative way, by appealing to the more competitive nature of some people. Getting statistics of a user’s study habits might prove to be interesting feature to add to study mates but would require more research by interviewing our target audience to see if it is something that adds value to their experience.
 
 
@@ -104,11 +100,24 @@ This application has a much smaller install base at 10,000 - 50 000 installs but
 
 
 ## Team 
-Our team “equals null” consists of 4 members:
-* Daniel Burke: Daniel is pursuing Masters in IT (DECO7350) and he will be leading the team and will be responsible for managerial decisions of the project. He will be responsible for making the project plan and finalizing the features of our project, dividing the features into modules and assigning work for all team members each week. He will also be responsible for keeping track of the progress of the team and shall be point of contact for the tutors. He will also be working as a back-end developer and support the team in developing the project.
-* Jaymes Branch: Jaymes is pursuing his Bachelors in IT (Course Code: DECO3500) and he will be working as a front end and focusing on the UI/UX part of the project. He will also be responsible for the logistics of the project. He will be responsible for discussing with all team members and scheduling the weekly meeting, booking meeting rooms, set up immediate meeting if past meetings were missed (decide place/time) etc.
-* Shashank Gururaj: Shashank is pursuing his Masters in Computer Science (Management) (Course Code: DECO7350) and will be responsible for the designing the architecture of the product. His responsibilities include building the project architecture, selection of tools used for development etc. He will be also be working as a full stack developer and support the team in developing the project.
-* Wes Clarke: Wes is pursuing his Bachelors in Software Engineering (Course Code: DECO3500) and he will be responsible for the content of the writings of our project like project proposal, project report etc. He will also be working on the front-end developer and will be responsible for the UI Design of the project. 
+Our team “equals null” consists of 4 members:  
+
+**Daniel Burke**  
+
+Daniel is pursuing Masters in IT (DECO7350) and he will be leading the team and will be responsible for managerial decisions of the project. He will be responsible for making the project plan and finalizing the features of our project, dividing the features into modules and assigning work for all team members each week. He will also be responsible for keeping track of the progress of the team and shall be point of contact for the tutors. He will also be working as a back-end developer and support the team in developing the project.  
+
+**Jaymes Branch**  
+
+Jaymes is pursuing his Bachelors in IT (Course Code: DECO3500) and he will be working as a front end and focusing on the UI/UX part of the project. He will also be responsible for the logistics of the project. He will be responsible for discussing with all team members and scheduling the weekly meeting, booking meeting rooms, set up immediate meeting if past meetings were missed (decide place/time) etc.  
+
+**Shashank Gururaj**  
+
+Shashank is pursuing his Masters in Computer Science (Management) (Course Code: DECO7350) and will be responsible for the designing the architecture of the product. His responsibilities include building the project architecture, selection of tools used for development etc. He will be also be working as a full stack developer and support the team in developing the project.  
+
+**Wes Clarke**  
+
+Wes is pursuing his Bachelors in Software Engineering (Course Code: DECO3500) and he will be responsible for the content of the writings of our project like project proposal, project report etc. He will also be working on the front-end developer and will be responsible for the UI Design of the project. 
+
 
 ### Decision making
 Key decisions will be made during workshops and weekly catchup meetings. Decisions will be made based upon examining the ideas/feasibility/supporting documents. If every team member is not convinced by the idea, then decision will be made by voting within the team. The idea with most votes is to be proceeded with. The idea is then reviewed with one of the tutors (if it’s a key decision) and worked on upon approval/advises provided.
@@ -132,14 +141,39 @@ Facebook messenger is a very popular convenient way to communicate by allowing i
 ## Plan
 The project “StudyMates” has been finalized on week 6 and project proposal has been submitted for the same. The delivery date for the design prototype is on week 13 which includes Documentation, prototype and promo material. However, there are 3 standups on weeks 8, 10 and 12. Here goes our plan:
  
+| Week		|			Task 										|		Team Members				|	
+|	---		|			:---:											|			---						|
+|			|	**Requirements Gathering**								|									|
+| 7			|	Interview Target Audience							|	Wes Clarke, Jaymes Branch		|
+| 7			|	Prototype Tools Selection							|	Daniel Burke, Shashank Gururaj	|
+| 8 (start) |	*Stand Up 1: Research/Tool Selection Finalised* 		|	Everyone						|
+|			|	**Design** 												|									|
+|8 			|	Design User Interface 								|	Wes Clarke, Jaymes Branch		|	
+|8 			|	Design Backend Topology								|	Daniel Burke, Shashank Gururaj	|
+|9			|	Paper Prototype User Testing						|	Jaymes Branch, Daniel Burke		|
+|9			|	Backend/Frontend Integration Plan					|	Wes Clarke, Shashank Gururaj	|
+|10(start) 	|	*Stand up 2: Design Finalised*						|	Everyone 						|
+|			|	**Construction**										|									|
+|10			|	UI Implementation									|	Wes Clarke, Jaymes Branch		|
+|10			|	Backend Implementation								|	Daniel Burke, Shashank Gururaj	|
+|11			|	Prototype Refinement 								|	Everyone						|
+|12 (Start) |	*Stand up 3: Prototype Implemented*					|	Everyone						|
+
+
+
 ### Plan overview
 Our Project will be development will consist of 3 main phases:
 * Requirement Gathering and Analysis
 * Design
 * Construction
-Requirement gathering and Analysis: Here we finalize the features and analyze the requirements and document the analysis. The deadline for this phase is week 8.
-Design: Here we build the high level and low-level designs of the project and document the same. The deadline for this phase is week 10.
-Construction: The prototype shall be built in the phase and document the same. and documentation for the same. The deadline for this phase is week 12.
+Requirement gathering and Analysis: Here we finalize the features and analyze the requirements and document the analysis. This will be achieved by conducting interviews with our target audience to identify what incentives group study among students and what tools they need to help them achieve this. This will also help us identify any pain points students have with group study. We will also be analysing various prototyping tools and selecting those which we believe to be most appropriate.
+The deadline for this phase is week 8.
+
+Design: Here we build the high level and low-level designs of the project and document the same. The deadline for this phase is week 10. This also requires collaboration between or front-end and back-end developers to coordinate the integration of these parts for a seamless integration.
+The deadline for this phase is week 10
+
+Construction: The prototype shall be built in the phase and document the same. and documentation for the same. Once the prototype has been implemented, time will be available to refine the implementation. This will be conducted with further user testing if time permits or in-house testing to help finalise the implementation. 
+ The deadline for this phase is week 12.
  
 
 ## Resources
