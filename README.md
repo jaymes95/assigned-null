@@ -14,6 +14,11 @@ Shashank Gururaj | 44888163 | shashankgururaj
 Wes Clarke | 4358277 | wclar6
 Daniel Burke | 44012043 | burkdani
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 **Features**
 
 * Ability to see nearby study sessions
