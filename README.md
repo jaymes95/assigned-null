@@ -7,10 +7,12 @@
 **Study mates** is a simple solution to find other people to meet and study with, whether it be another individual or a group.
 
 **Contributors**
-* Jaymes Branch (43221325) **Github:** jaymes95
-* Shashank Gururaj (44888163) **Github:** shashankgururaj
-* Wes Clarke (4358277) **Github:** wclar6
-* Daniel Burke (44012043) **Github:** burkdani
+Name | Student Number | Github Username
+--------------|----------|-----------------
+Jaymes Branch | 43221325 | jaymes95
+Shashank Gururaj | 44888163 | shashankgururaj
+Wes Clarke | 4358277 | wclar6
+Daniel Burke | 44012043 | burkdani
 
 **Features**
 
@@ -23,13 +25,13 @@
 
 
 
-##Introduction 	
+## Introduction 	
 
 
 
-##Concept
+## Concept
 
-###Rationale 	
+### Rationale 	
 Study mates is a Mobile application that enables uni students to connect with each other to study. It aims to address two issues that students face while at university, studying and meeting like minded people. 
 
 Common issues in studying include both procrastination and filling in gaps in information. People have struggled with procrastination going back to ancient civilisations. The Greek poet Hesiod, had cautioned not to “put your work off till tomorrow and the day after”, way back around 800 B.C. Given the rise of the internet and mobile devices it is clear that procrastination is as easy as ever. While being alone you can always find ways to rationalise postponing the start of your study, i.e checking facebook, watching youtube while you eat. 
@@ -47,7 +49,7 @@ The benefit of study mates is that it makes it easy for students to form study g
 
 
 
-###Features
+### Features
 * Profile: user creates a profile, specifying courses they are taking. Campus they are on.
 * A Student can start a study group by advertising their location and specifying what topic or area they wish to study and the duration. 
 * Students are then able to search for groups by filtering on topic/subject area and enter that study group 
@@ -56,14 +58,14 @@ The benefit of study mates is that it makes it easy for students to form study g
 * Notification: students can opt in to being notified when a study group for a course they are taking is available.  
 * Security: communicate with universities so that students can only connect through active uni emails. Enables a sense of security for students as they know that only other university students are using the app. Also enables us to provide filtering features based on course codes.
 
-###Project Aims
+### Project Aims
 * Develop a mobile prototype for study mates that enables students to engage in face to face study
 * Allow students to form study groups in an ad-hoc manner 
 * Investigate what tools can help facilitate study in groups and how they could be incorporated into the application 
 * Interview target audience to discover insights into their study habits and when they would normally partake in group study
 
 
-###Audience 
+### Audience 
 The target audience for study mates is for tertiary level students.This is because the university environment supports group study by providing access to rooms and tables which groups can be stationed at. Also University can tend to isolate students as even if friends are attending the same university they may not be taking the same course, so finding new friends or groups to study can be difficult. Study mates helps bridge this by providing a platform that allows students to meet new people within their course.   
 
 
@@ -72,7 +74,7 @@ The target audience for study mates is for tertiary level students.This is becau
 
 
 
-###Prior Art
+### Prior Art
 
 **GroupME - ** https://play.google.com/store/apps/details?id=com.groupme.android&hl=en 
 GroupME is probably the biggest application now that is focused on forming groups with people with a total number of instances ranging from 10,000,000 - 50,000,000. It is a mobile application that is solely concerned with forming groups with your Family, Roommates, Friends, Coworkers, Teams, Bands or Faith Groups. Users are able to communicate to a group through a chat system that also enables sending images and videos. It seems that this app is more focused with forming groups with people the user already knows and doesn’t facilitate meeting up face to face. This is where it differs from study mates as our focus is targeted towards tertiary students and aims to bring people together who may not already know each other, face to face.
@@ -87,7 +89,7 @@ This application has a much smaller install base at 10,000 - 50 000 installs but
 
 
 
-###Social & Mobile Theory
+### Social & Mobile Theory
 
 
 
@@ -95,10 +97,10 @@ This application has a much smaller install base at 10,000 - 50 000 installs but
 
 
 
-##Team 
+## Team 
 Our team “equals null” consists of 4 members:
 * Daniel Burke: Daniel is pursuing Masters in IT (DECO7350) and he will be leading the team and will be responsible for managerial decisions of the project. He will be responsible for making the project plan and finalizing the features of our project, dividing the features into modules and assigning work for all team members each week. He will also be responsible for keeping track of the progress of the team and shall be point of contact for the tutors. He will also be working as a back-end developer and support the team in developing the project.
-* Jaymes Branch: James is pursuing his Bachelors in IT (Course Code: DECO3500) and he will be working as a front end and focusing on the UI/UX part of the project. He will also be responsible for the logistics of the project. He will be responsible for discussing with all team members and scheduling the weekly meeting, booking meeting rooms, set up immediate meeting if past meetings were missed (decide place/time) etc.
+* Jaymes Branch: Jaymes is pursuing his Bachelors in IT (Course Code: DECO3500) and he will be working as a front end and focusing on the UI/UX part of the project. He will also be responsible for the logistics of the project. He will be responsible for discussing with all team members and scheduling the weekly meeting, booking meeting rooms, set up immediate meeting if past meetings were missed (decide place/time) etc.
 * Shashank Gururaj: Shashank is pursuing his Masters in Computer Science (Management) (Course Code: DECO7350) and will be responsible for the designing the architecture of the product. His responsibilities include building the project architecture, selection of tools used for development etc. He will be also be working as a full stack developer and support the team in developing the project.
 * Wes Clarke: Wes is pursuing his Bachelors in Software Engineering (Course Code: DECO3500) and he will be responsible for the content of the writings of our project like project proposal, project report etc. He will also be working on the front-end developer and will be responsible for the UI Design of the project. 
 
@@ -110,21 +112,21 @@ If the team is lagging, then the team shall first consult with one of the tutors
  
 
 
-###Resolving Conflicts
+### Resolving Conflicts
 When a conflict arises within the team, all the team members meet to resolve the conflict. If everyone cannot meet at the same place and the conflict needs urgent attention, then all the team member connects through skype/facetime to resolve the conflict. The views of each member involved in the conflict will be examined/discussed. If the conflict cannot be solved within the team, we shall seek the help of the tutors. Precautions shall be taken to avoid miscommunication which can lead into conflicts (making sure everybody is on the same page during meetings). 
 
 
-##Communication 
-###Communication methods
+## Communication 
+### Communication methods
 Communication outside workshops will be done in weekly meetings which are scheduled on Tuesdays at 3-4pm at General Purpose South Building, Room 207. If the team is unable to meet on the scheduled time/place. Possibility of meeting and place/time of next meeting is discussed. If everyone in the team is unable to meet physically, then a conference call shall be setup using skype/facetime and the proceedings shall be discussed. Facebook Messenger group is used as the main channel for communication. Flies will be shared through Google Docs. Each file that is uploaded with be name with the following convention: “MemberName_AssignmentName_ModifiedDate_UpdatedTopic”
  
-###Reason for choice of Social Platforms
+### Reason for choice of Social Platforms
 Facebook messenger is a very popular convenient way to communicate by allowing its users to add documents/media into the chat which can help in providing better explanations. Most people have been using it and familiar with it. Google docs has been chosen for file sharing due to 2 main reasons. One being that it is integrated with google drive which allows its users to create multiple folders and has a huge storage space. The Folder structure is like windows folder structure and easy to understand/modify. It is very easy to share a folder or file with multiple people. Second is that a file on google docs can be updated simultaneously by 2 or more people whom it is shared with. This prevents multiple files being created and the hassle of integrating them. 
 
-##Plan
+## Plan
 The project “StudyMates” has been finalized on week 6 and project proposal has been submitted for the same. The delivery date for the design prototype is on week 13 which includes Documentation, prototype and promo material. However, there are 3 standups on weeks 8, 10 and 12. Here goes our plan:
  
-###Plan overview
+### Plan overview
 Our Project will be development will consist of 3 main phases:
 * Requirement Gathering and Analysis
 * Design
@@ -139,12 +141,12 @@ The resource we will be needing is:
 * Prototyping tool (yet to be decided)
  
 
-##Tags
-###Cooperative Work (CSCW)
-###Collaboration 
-###Social
-###Awareness
-###Security
-###Education
-###Group study.
+## Tags
+### Cooperative Work (CSCW)
+### Collaboration 
+### Social
+### Awareness
+### Security
+### Education
+### Group study.
 
