@@ -17,23 +17,19 @@ Wes Clarke | 4358277 | wclar6 | DECO3500
 Daniel Burke | 44012043 | burkdani | DECO7350  
 
 
-**Features**
-
-* Ability to see nearby study sessions
-* To start a study session
-*
-*
-
 
 
 
 
-## Introduction 	
+## 1.0 Introduction 	
+Education and technology evolve together constantly, with educational institutions making frequent use of computers and online learning platforms. However, there are still many problems that can be solved with innovative technologies. For example, University students often find it difficult to connect with other classmates to form study groups. They rarely speak to other students during lectures or practicals and even fewer make contact outside of class. The problem we have to solve is how we can allow users to create and find study groups in the easiest way possible. 
+
+ For this course we have chosen the team name ‘assigned null’ and are required to create a solution to this problem using a mixture social and mobile technologies. The project that we selected for development is a location based study group finding application called “Study Mates”.
 
 
-## Concept
+## 2.0 Concept
 
-### Rationale 	
+### 2.1 Rationale 	
 Study mates is a Mobile application that enables uni students to connect with each other to study. It aims to address two issues that students face while at university, studying and meeting like minded people. 
 
 Common issues in studying include both procrastination and filling in gaps in information. People have struggled with procrastination going back to ancient civilisations. The Greek poet Hesiod, had cautioned not to “put your work off till tomorrow and the day after”, way back around 800 B.C. Given the rise of the internet and mobile devices it is clear that procrastination is as easy as ever. While being alone you can always find ways to rationalise postponing the start of your study, i.e checking facebook, watching youtube while you eat. 
@@ -51,7 +47,7 @@ The benefit of study mates is that it makes it easy for students to form study g
 
 
 
-### Features
+### 2.2 Features
 * Profile: user creates a profile, specifying courses they are taking. Campus they are on.
 * A Student can start a study group by advertising their location and specifying what topic or area they wish to study and the duration. 
 * Students are then able to search for groups by filtering on topic/subject area and enter that study group 
@@ -60,15 +56,18 @@ The benefit of study mates is that it makes it easy for students to form study g
 * Notification: students can opt in to being notified when a study group for a course they are taking is available.  
 * Security: communicate with universities so that students can only connect through active uni emails. Enables a sense of security for students as they know that only other university students are using the app. Also enables us to provide filtering features based on course codes.
 
-### Project Aims
+### 2.3 Project Aims
 * Develop a mobile prototype for study mates that enables students to engage in face to face study
 * Allow students to form study groups in an ad-hoc manner 
 * Investigate what tools can help facilitate study in groups and how they could be incorporated into the application 
 * Interview target audience to discover insights into their study habits and when they would normally partake in group study
 
 
-### Audience 
-The target audience for study mates is for tertiary level students.This is because the university environment supports group study by providing access to rooms and tables which groups can be stationed at. Also University can tend to isolate students as even if friends are attending the same university they may not be taking the same course, so finding new friends or groups to study can be difficult. Study mates helps bridge this by providing a platform that allows students to meet new people within their course.   
+### 2.4 Audience 
+The target audience for study mates is for tertiary level students.This is because the university environment supports group study by providing access to rooms and tables which groups can be stationed at. Also University can tend to isolate students as even if friends are attending the same university they may not be taking the same course, so finding new friends or groups to study can be difficult. Study mates helps bridge this by providing a platform that allows students to meet new people within their course.
+
+### 2.5 Context of Use
+Essentially the individual will use the app in a mobile setting as they will intend to meet up while on the go. Each individual has the ability to search for existing groups, or to create a new one. Location is integrated with the use of a map api, making use of the mobile gps to both share and find locations. Use
 
 
 
@@ -76,12 +75,12 @@ The target audience for study mates is for tertiary level students.This is becau
 
 
 
-### Prior Art
+### 2.6 Prior Art
 
 **GroupME -** https://play.google.com/store/apps/details?id=com.groupme.android&hl=en 
 GroupME is probably the biggest application now that is focused on forming groups with people with a total number of instances ranging from 10,000,000 - 50,000,000. It is a mobile application that is solely concerned with forming groups with your Family, Roommates, Friends, Coworkers, Teams, Bands or Faith Groups. Users are able to communicate to a group through a chat system that also enables sending images and videos. It seems that this app is more focused with forming groups with people the user already knows and doesn’t facilitate meeting up face to face. This is where it differs from study mates as our focus is targeted towards tertiary students and aims to bring people together who may not already know each other, face to face.
 
-** Study Mate-timer, group study -** https://play.google.com/store/apps/details?id=vh.frl.stopwatch&hl=en 
+**Study Mate-timer, group study -** https://play.google.com/store/apps/details?id=vh.frl.stopwatch&hl=en 
 This application has a much smaller install base at 10,000 - 50 000 installs but focuses more on studying in an almost gamified manner. The app centred is around the idea of trying to do more study than others in your group. You can time the amount of study you do and by forming a group you can see the study statistics of everyone else in the group with the idea seeing how much study everyone else is doing will motivate you to study more.This idea is a different take on how to engage people with study in a collaborative way, by appealing to the more competitive nature of some people. Getting statistics of a user’s study habits might prove to be interesting feature to add to study mates but would require more research by interviewing our target audience to see if it is something that adds value to their experience.
 
 
@@ -91,15 +90,14 @@ This application has a much smaller install base at 10,000 - 50 000 installs but
 
 
 
-### Social & Mobile Theory
-
+### 2.7 Social & Mobile Theory
 
 
 
 
 
 
-## Team 
+## 3.0 Team 
 Our team “equals null” consists of 4 members:  
 
 **Daniel Burke**  
@@ -119,26 +117,26 @@ Shashank is pursuing his Masters in Computer Science (Management) (Course Code: 
 Wes is pursuing his Bachelors in Software Engineering (Course Code: DECO3500) and he will be responsible for the content of the writings of our project like project proposal, project report etc. He will also be working on the front-end developer and will be responsible for the UI Design of the project. 
 
 
-### Decision making
+### 3.1 Decision making
 Key decisions will be made during workshops and weekly catchup meetings. Decisions will be made based upon examining the ideas/feasibility/supporting documents. If every team member is not convinced by the idea, then decision will be made by voting within the team. The idea with most votes is to be proceeded with. The idea is then reviewed with one of the tutors (if it’s a key decision) and worked on upon approval/advises provided.
  
-### Tackling poor performance
+### 3.2 Tackling poor performance
 If the team is lagging, then the team shall first consult with one of the tutors to find the best way to speed up. The next plan would be for the team leader (Daniel) to set short and frequent milestones for each team member. Each member will update the team on the progress of the work twice a week. If one of the team members is unavailable to work on the project for a duration, then the other 3 members divide the person’s work and complete it within a deadline.
  
 
 
-### Resolving Conflicts
+### 3.3 Resolving Conflicts
 When a conflict arises within the team, all the team members meet to resolve the conflict. If everyone cannot meet at the same place and the conflict needs urgent attention, then all the team member connects through skype/facetime to resolve the conflict. The views of each member involved in the conflict will be examined/discussed. If the conflict cannot be solved within the team, we shall seek the help of the tutors. Precautions shall be taken to avoid miscommunication which can lead into conflicts (making sure everybody is on the same page during meetings). 
 
 
-## Communication 
-### Communication methods
+## 4.0 Communication 
+### 4.1 Communication methods
 Communication outside workshops will be done in weekly meetings which are scheduled on Tuesdays at 3-4pm at General Purpose South Building, Room 207. If the team is unable to meet on the scheduled time/place. Possibility of meeting and place/time of next meeting is discussed. If everyone in the team is unable to meet physically, then a conference call shall be setup using skype/facetime and the proceedings shall be discussed. Facebook Messenger group is used as the main channel for communication. Flies will be shared through Google Docs. Each file that is uploaded with be name with the following convention: “MemberName_AssignmentName_ModifiedDate_UpdatedTopic”
  
-### Reason for choice of Social Platforms
+### 4.2 Reason for choice of Social Platforms
 Facebook messenger is a very popular convenient way to communicate by allowing its users to add documents/media into the chat which can help in providing better explanations. Most people have been using it and familiar with it. Google docs has been chosen for file sharing due to 2 main reasons. One being that it is integrated with google drive which allows its users to create multiple folders and has a huge storage space. The Folder structure is like windows folder structure and easy to understand/modify. It is very easy to share a folder or file with multiple people. Second is that a file on google docs can be updated simultaneously by 2 or more people whom it is shared with. This prevents multiple files being created and the hassle of integrating them. 
 
-## Plan
+## 5.0 Plan
 The project “StudyMates” has been finalized on week 6 and project proposal has been submitted for the same. The delivery date for the design prototype is on week 13 which includes Documentation, prototype and promo material. However, there are 3 standups on weeks 8, 10 and 12. Here goes our plan:
  
 | Week		|			Task 										|		Team Members				|	
@@ -161,7 +159,7 @@ The project “StudyMates” has been finalized on week 6 and project proposal h
 
 
 
-### Plan overview
+### 5.1 Plan overview
 Our Project will be development will consist of 3 main phases:
 * Requirement Gathering and Analysis
 * Design
@@ -176,7 +174,7 @@ Construction: The prototype shall be built in the phase and document the same. a
  The deadline for this phase is week 12.
  
 
-## Resources
+## 6.0 Resources
 The resource we will be needing is:
 * Prototyping tool (yet to be decided)
  
@@ -188,5 +186,6 @@ The resource we will be needing is:
 ### Awareness
 ### Security
 ### Education
+### Community
 ### Group study.
 
