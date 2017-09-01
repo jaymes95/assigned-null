@@ -8,7 +8,7 @@
 
 **Contributors** <br />
 Name | Student Number | Github Username
---------------|----------|-----------------
+-------------- | ---------- | -----------------
 Jaymes Branch | 43221325 | jaymes95
 Shashank Gururaj | 44888163 | shashankgururaj
 Wes Clarke | 4358277 | wclar6
